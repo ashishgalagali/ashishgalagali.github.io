@@ -1,0 +1,24 @@
+# > name: Name of your framework
+# > weight: Describes how good you know the framework - values from 1 up to 5
+#
+# Example of a framework
+# - name: Framework
+#   weight: 5
+
+- name: Elasticsearch
+  weight: 4
+
+- name: MongoDB
+  weight: 4
+
+- name: MySQL
+  weight: 2
+
+- name: PostgreSQL
+  weight: 3
+
+- name: Redis
+  weight: 2
+
+- name: DruidDB
+  weight: 2

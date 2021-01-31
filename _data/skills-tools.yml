@@ -1,0 +1,57 @@
+# > name: Name of your Dev Tool
+# > weight: Describes how good you know the tool - values from 1 up to 5
+#
+# Example of a Dev Tool
+# - name: Git
+#   weight: 5
+
+- name: Git
+  weight: 5
+
+- name: JUnit
+  weight: 3
+
+- name: Scrum
+  weight: 3
+
+- name: Swagger
+  weight: 4
+
+- name: Jenkins
+  weight: 1
+
+- name: JSON
+  weight: 4
+
+- name: AWS
+  weight: 2
+
+- name: RESTful web services
+  weight: 3
+
+- name: Jira
+  weight: 2
+
+- name: Postman
+  weight: 4
+
+- name: Apache Storm
+  weight: 3
+
+- name: Kafka
+  weight: 4
+
+- name: Zookeeper
+  weight: 2
+
+- name: Spark
+  weight: 1
+
+- name: Jetty
+  weight: 1
+
+- name: Tomcat
+  weight: 3
+
+- name: Maven
+  weight: 4

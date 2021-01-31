@@ -1,0 +1,12 @@
+- name: BrickHack 6 Hackathon - "Best UiPath Automation Hack"
+  descr: "Integrated Google Actions with the Transloc app APIs available on RapidAPI to access RIT shuttle bus timings using Google
+          Assistant"
+  git: https://devpost.com/software/rit-rider-google-assistant
+  demo: https://www.youtube.com/watch?v=fCqkzKY3o2Y&feature=emb_title
+  tags:
+    - tag: Google-Cloud
+    - tag: JavaScript
+    - tag: Google-dialog-flow-console
+    - tag: Node.js
+    - tag: rapid-api
+    - tag: Postman

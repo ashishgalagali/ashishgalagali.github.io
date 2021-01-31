@@ -1,0 +1,77 @@
+# > title: Name of your timeline entry, university or work place
+# > title-url: Link to your timeline entry, university or work place
+# > date: Time span
+# > subtitle: The description under the title
+# > tags: List of tags you want to associate with the entry
+# > timeline-side: The side on which you want to display the entry: left or right
+
+# Example of a timeline entry
+# - title: airbnb
+#   title-url: https://example.com/
+#   date: Sep 2019 - Present
+#   subtitle: Fullstack Developer
+#   tags:
+#     - tag: React
+#     - tag: Javascript
+#     - tag: Ruby
+#     - tag: Rails
+#   timeline-side: right
+
+- title: Rochester Institute of Technology
+  title-url: https://rit.edu
+  date: Aug 2019 – May 2021
+  subtitle: MS in Software Engineer
+  timeline-side: right
+
+- title: Ayco, a Goldman Sachs Company
+  title-url: https://www.ayco.com/
+  date: July 2020 – August 2020
+  subtitle: Technology Intern
+  tags:
+    - tag: Java
+    - tag: Angular
+    - tag: TypeScript
+    - tag: SVN
+  timeline-side: left
+
+- title: Rochester Institute of Technology
+  title-url: https://github.com/andymeneely/git-churn
+  date: Mar 2020 - Present
+  subtitle: Graduate Research Assistant
+  tags:
+    - tag: Go
+    - tag: Git
+    - tag: Open-sourse
+    - tag: Research
+  timeline-side: right
+
+- title: Paytm
+  title-url: https://paytm.com/
+  date: May 2018 – August 2019
+  subtitle: Software Engineer
+  tags:
+    - tag: Java
+    - tag: Elasticsearch
+    - tag: AWS
+    - tag: Maven
+  timeline-side: left
+
+- title: Infrrd.ai
+  title-url: https://infrrd.ai
+  date: June 2015 – May 2018
+  subtitle: Software Engineer
+  tags:
+    - tag: Java
+    - tag: Elasticsearch
+    - tag: AWS
+    - tag: Maven
+    - tag: MongoDB
+    - tag: Apache Kafka
+    - tag: Apache Storm
+  timeline-side: right
+
+- title: BNM Institute of Technology,
+  title-url: https://bnmit.org
+  date: Sept 2011 – June 2015
+  subtitle: BE in Electronice and Communication Engineering
+  timeline-side: left
